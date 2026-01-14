@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jhun Bart Macirinszx kani nga changeg"</h1>
-<h3 align="center">A passionate frontend developer from Philippines</h3>
+<h1 align="center">Hi 👋, I'm Jhun Bart Macirinszx kani nga changegkami ni siya"</h1>
+<h3 align="center">A passionate frontend developer from Philippines CL2</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
